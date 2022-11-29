@@ -4,10 +4,10 @@ __pycache__
 .ipynb_checkpoints
 
 eclipse-mosaic-22.0-SNAPSHOT/logs
-eclipse-mosaic-22.0-SNAPSHOT\scenarios\Barnim
-eclipse-mosaic-22.0-SNAPSHOT\scenarios\HelloWorld
-eclipse-mosaic-22.0-SNAPSHOT\scenarios\Highway
-eclipse-mosaic-22.0-SNAPSHOT\scenarios\LuST
-eclipse-mosaic-22.0-SNAPSHOT\scenarios\Sievekingplatz
-eclipse-mosaic-22.0-SNAPSHOT\scenarios\Tiergarten
+eclipse-mosaic-22.0-SNAPSHOT/scenarios/Barnim
+eclipse-mosaic-22.0-SNAPSHOT/scenarios/HelloWorld
+eclipse-mosaic-22.0-SNAPSHOT/scenarios/Highway
+eclipse-mosaic-22.0-SNAPSHOT/scenarios/LuST
+eclipse-mosaic-22.0-SNAPSHOT/scenarios/Sievekingplatz
+eclipse-mosaic-22.0-SNAPSHOT/scenarios/Tiergarten
 venv
