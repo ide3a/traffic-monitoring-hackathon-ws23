@@ -1,0 +1,9 @@
+# general
+# ------------------------------------------------------------------------------
+jupyterlab
+pandas
+
+# plotting
+matplotlib
+seaborn
+plotly
