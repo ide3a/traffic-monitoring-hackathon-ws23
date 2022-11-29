@@ -1,8 +1,8 @@
-# traffic-monitoring-hackathon-ws23
-Warehouse of the traffic monitoring hackathon at Smart Cities School WS2023
+# Traffic Monitoring Hackathon WS2023
+Repository of Traffic Monitoring Hackathon at Smart Cities School WS2023
 
 ### Step 1
-go to notebook.ipynb
+Go to notebook.ipynb
 
 ### Step 2
 Run the simulation from the terminal
@@ -16,3 +16,7 @@ Follow the instructions in notebook.ipynb
 
 ### Step 5
 Enjoy your time at the Smart City Hackathon :) 
+
+
+
+Ide3a Team
